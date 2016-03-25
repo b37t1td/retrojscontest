@@ -6,4 +6,5 @@ The contest/showcase of using outdated , old  javascript frameworks.
 
 ### List
 
-* [BackboneJS TODO](http://codepen.io/linuxenko/pen/bpqjve) by [S.Linuxenko](https://github.com/linuxenko)
+* [BackboneJS](http://codepen.io/linuxenko/pen/bpqjve) by [S.Linuxenko](https://github.com/linuxenko)
+* [Angular 1.x](http://codepen.io/linuxenko/pen/grRrdz) by @linuxenko 
